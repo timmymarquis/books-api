@@ -1,0 +1,19 @@
+# GET http://localhost:5000/
+# Content-Type: 'application/json'
+
+//POST http://localhost:5000/books/add
+//Content-Type: application/json
+
+//{
+  //  "title": " NeW BOOK TITLE ",
+    //"ISBN": "978-3-16-148410-0",
+    //"publicationNumber": 1234567890,
+    //"author": "Jane Doe",
+    //"dateOfPublication": "2025-11-19",
+    //"publisher": "Doe PUBLISHERS"
+//}
+//GET http://localhost:5000/books
+//Content-Type: application/json
+
+GET http://localhost:5000/books/{6925d55b14f0ecc23bdaf363d}
+//Content-Type: application/json
